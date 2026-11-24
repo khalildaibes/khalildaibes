@@ -35,7 +35,7 @@
 
 ### 💼 Experience
 
-**Senior DevOps Engineer — Finastra** · _2024 – Present_  
+**Senior DevOps Engineer — Finastra** · _2024 – May 2026_  
 `Kubernetes` `Docker` `Jenkins` `Groovy` `Nexus` `Linux` · 200+ pipelines, multi-team CI platform
 - Owned the migration of Jenkins to a containerized Kubernetes platform with zero disruption to CI, PR validation and release pipelines
 - Designed reusable pipeline-as-code and infrastructure-as-code frameworks, cutting pipeline failures by ~30%
