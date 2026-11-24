@@ -1,6 +1,6 @@
 # Hi, I'm Khalil 👋
 
-**Senior DevOps / Platform Engineer** based in Israel with **6+ years** of experience in infrastructure automation, CI/CD architecture and containerized platforms. I specialize in infrastructure as code, Kubernetes, deployment automation and large-scale legacy migrations, and I'm currently focused on bringing generative AI applications to production on AWS.
+**Senior DevOps / Platform Engineer** based in Israel with **5 years** of experience in infrastructure automation, CI/CD architecture and containerized platforms. I specialize in infrastructure as code, Kubernetes, deployment automation and large-scale legacy migrations, and I'm currently focused on bringing generative AI applications to production on AWS.
 
 ### 🔭 Currently open for a new Role
 
@@ -35,7 +35,12 @@
 
 ### 💼 Experience
 
-**Senior DevOps Engineer — Finastra** · _2024 – May 2026_  
+**Founder & Platform Engineer — KD Technology Solutions (Grow AI)** · _Jun 2025 – Present_  
+`AI agents` `n8n` `Telegram bots` `APIs` · multi-tenant SaaS
+- Founded and engineered Grow AI, a multi-tenant SaaS platform that automates social media and marketing for small businesses with an AI agent, AI image and video generation, multi-platform publishing and Meta Ads management
+- Designed per-tenant automation (Telegram bots, n8n workflows, APIs, credit metering); own the infrastructure end to end
+
+**Senior DevOps Engineer — Finastra** · _Dec 2024 – Apr 2026_  
 `Kubernetes` `Docker` `Jenkins` `Groovy` `Nexus` `Linux` · 200+ pipelines, multi-team CI platform
 - Owned the migration of Jenkins to a containerized Kubernetes platform with zero disruption to CI, PR validation and release pipelines
 - Designed reusable pipeline-as-code and infrastructure-as-code frameworks, cutting pipeline failures by ~30%
@@ -43,7 +48,7 @@
 - Standardized configuration management and centralized logging (ELK) across teams
 - Authored runbooks, pipeline-as-code standards and onboarding docs to speed up team ramp-up
 
-**Staff DevOps Engineer — BMC** · _2022 – 2024_  
+**Staff DevOps Engineer — BMC Software** · _Jun 2022 – Oct 2024_  
 `Jenkins` `Python` `Bash` `PostgreSQL` `Linux` · daily deployments, multi-service systems, TB-scale data
 - Designed CI/CD pipelines enabling consistent daily deployments across multiple environments
 - Reduced pipeline execution time by 30–40% through refactored build logic and improved caching
@@ -52,7 +57,11 @@
 - Automated Postfix queue management, reducing delivery delays by 60%+
 - Mentored engineers on CI/CD best practices
 
-**AI Researcher & Developer — Drexel Labs, University of Haifa** · _2020 – 2022_  
+**Automation Engineer — SeatGeek** · _Aug 2021 – May 2022_  
+`TypeScript` `Playwright`
+- Built automated end-to-end test environments in TypeScript and Playwright, strengthening release quality
+
+**AI Researcher — Drexel Labs, University of Haifa** · _2020 – 2022, part-time_  
 `Python` `Data Processing` `Visualization`
 - Developed large-scale data processing models analyzing millions of data points for biological research
 - Improved processing efficiency by ~35% through algorithm and pipeline optimization
