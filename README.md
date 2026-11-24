@@ -2,9 +2,7 @@
 
 **Senior DevOps Engineer** based in Israel. I build and run cloud infrastructure, CI/CD pipelines and Kubernetes platforms, and I'm currently focused on bringing generative AI applications to production on AWS.
 
-### 🔭 Currently working on
-- An **AI travel recommendation engine** that suggests destinations and matches them with live deals from providers such as Amadeus and Booking.com
-- CI/CD and delivery pipelines for generative AI workloads on AWS
+### 🔭 Currently open for a new Role
 
 ### 🛠️ Tech stack
 
